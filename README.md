@@ -1,6 +1,7 @@
-# licht
+<img width="128" height="48" src="logo1-compressed.svg">
 
-[licht.dev](https://licht.dev/) will be the new website for the projects: 
+[licht.dev](https://licht.dev/) will be the new website for the projects:
+
 - Five Server
 - Five Server VSCode
 - Generate Static Site
