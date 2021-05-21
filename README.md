@@ -1,4 +1,12 @@
-<img width="128" height="48" src="logo1-compressed.svg">
+<h1 align="center">
+  <img width="192" height="72" src="logo1-compressed.svg">
+</h1>
+
+<h3 align="center">
+  Collection of super useful independent packages for increasing your web development productivity.
+</h3>
+
+<hr>
 
 [licht.dev](https://licht.dev/) will be the new website for the projects:
 
