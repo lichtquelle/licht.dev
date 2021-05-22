@@ -1,0 +1,11 @@
+name: LICHT
+
+description: > # this means to ignore newlines until "show_excerpts:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml.
+
+repository: https://github.com/lichtquelle
+
+author:
+  user: '@yandeu'
+  website: https://github.com/yandeu

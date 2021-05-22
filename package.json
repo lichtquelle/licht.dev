@@ -1,0 +1,27 @@
+{
+  "name": "lichtquelle.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "wanilla-machine www",
+    "build": "npm run render && npm run copy",
+    "render": "node scripts/render.js",
+    "copy": "node scripts/copy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lichtquelle/lichtquelle.github.io.git"
+  },
+  "keywords": [],
+  "author": "Yannick Deubel (https://github.com/yandeu)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lichtquelle/lichtquelle.github.io/issues"
+  },
+  "homepage": "https://github.com/lichtquelle/lichtquelle.github.io#readme",
+  "devDependencies": {
+    "generate-static-site": "^0.0.8",
+    "wanilla-machine": "^0.0.6"
+  }
+}
