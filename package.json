@@ -5,9 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "wanilla-machine www",
-    "build": "npm run render && npm run copy",
-    "render": "node scripts/render.js",
-    "copy": "node scripts/copy.js"
+    "build": "npm run render",
+    "render": "node scripts/render.js"
   },
   "repository": {
     "type": "git",

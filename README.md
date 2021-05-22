@@ -1,23 +1,8 @@
-<h1 align="center">
-  <img width="192" height="72" src="logo1-compressed.svg">
-</h1>
+## Licht.dev
 
-<h3 align="center">
-  Collection of super useful independent packages for increasing your web development productivity.
-</h3>
+This repository contains the website [licht.dev](https://licht.dev/).
 
-<hr>
+The website is build using Wanilla Machine and Generate Static Site.
 
-[licht.dev](https://licht.dev/) will be the new website for the projects:
-
-- Five Server
-- Five Server VSCode
-- Generate Static Site
-- Wanilla
-- Wanilla Machine
-- DEVCSS
-
-These projects will soon be available on [github.com/lichtquelle](https://github.com/lichtquelle).
-
-> _licht means light in German_  
-> _lichtquelle means light source in German_
+> _Licht means light in German._  
+> _Lichtquelle means light source in German._
